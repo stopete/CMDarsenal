@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMDarsenal", "CMDarsenal.csproj", "{7C075E9B-B780-A07F-AA5B-0329F7CBCC72}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CMDarsenalSetup", "..\CMDarsenalSetup\CMDarsenalSetup.vdproj", "{E85ED4CE-E8DF-B203-69B2-AD404C6DB061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C075E9B-B780-A07F-AA5B-0329F7CBCC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C075E9B-B780-A07F-AA5B-0329F7CBCC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C075E9B-B780-A07F-AA5B-0329F7CBCC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C075E9B-B780-A07F-AA5B-0329F7CBCC72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85ED4CE-E8DF-B203-69B2-AD404C6DB061}.Debug|Any CPU.ActiveCfg = Debug
+		{E85ED4CE-E8DF-B203-69B2-AD404C6DB061}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC9F79E-2E03-492F-BF3B-F82454A492CD}
+	EndGlobalSection
+EndGlobal
